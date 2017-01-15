@@ -1,0 +1,75 @@
+TransporterID,Transporter,TransporterDescription
+1,ACP,Atlantic Coast Pipeline
+2,AGT,Algonquin Gas Transmission
+3,ANR,ANR Pipeline Company
+4,APC,Alliance Pipeline
+5,BAY GAS,Bay Gas Storage Company
+6,BOBCAT,Bobcat Gas Storage
+7,CENAGAS,CENAGAS
+8,CGT,Columbia Gulf Transmission
+9,CIG,Colorado Interstate Gas Co
+10,CONSUMERS,Consumers Gas Co (MI)
+11,CPG,Cheyenne Plains Gas Pipeline
+12,DESTIN,Destin Pipeline
+13,DOM,Dominion Transmission
+14,EGT,Enable Gas Transmission
+15,EMPIRE,Empire Pipeline Inc.
+16,ENOGEX,Enogex
+17,EOIT,Enable EOIT
+18,EPNG,El Paso Natural Gas
+19,EQT,Equitrans
+20,FGT,Florida Gas Transmission
+21,GLGT,Great Lakes Gas Transmission
+22,GOLDTRI,Goldtri
+23,GTN,Gas Transmission Northwest Pipeline
+24,GULF SOUTH,Gulf South Pipeline
+25,HONEOYE,Honeoye
+26,HPL,Houston Gas Pipeline System
+27,IROQUOIS,Iroquois Gas Transmission Co
+28,KATY,ENSTOR Katy Hub
+29,KERN,Kern River Pipeline
+30,KMTEXAS,Kinder Morgan Texas Pipeline
+31,MARC1 STAGECOACH,Inergy Marc 1 Pipeline
+32,MEP,Midcontinent Express Pipeline
+33,MICHCON,Mich Con Pipeline Co
+34,MILL,Millennium Pipeline
+35,MOSS BLUFF,Moss Bluff
+36,NBPL,Northern Border Pipeline
+37,NFS,Nuclear Fuel Services Inc.
+38,NGPL,Natural Gas Pipeline Co. of America
+39,NICOR,NICOR Gas
+40,NIPSCO,Northern Indiana Public Service Company
+41,NNG,Northern Natural Gas
+42,NORTHSHORE,North Shore Pipeline
+43,NOVA,NOVA Gas Transmission Ltg
+44,NWE,NWE Pipeline
+45,OASIS,Oasis Pipeline
+46,OGT,Oneok Gas Transmission
+47,OPAL,OPAL Pipeline
+48,PEOPLES,Peoples Gas
+49,PEPL,Panhandle Eastern Pipeline Co
+50,PG&E,California Gas Transmission
+51,PNPRE,Pine Prairie Storage
+52,REX,Rocky Express Pipeline
+53,RUBY,Ruby Pipeline LLC
+54,SABINE,Sabine Pipeline
+55,SOCAL,Southern California Gas
+56,SONAT,Southern Natural Gas
+57,SSTAR,Southern Star Central Gas Pipeline
+58,STAGECOACH,Stagecoach Pipeline
+59,TCO,Columbia Gas Transmission
+60,TCPL,TransCanada Pipeline
+61,TETCO,Texas Eastern Transmission
+62,TGP,Tennessee Gas Pipeline
+63,TGT,Texas Gas Transmission
+64,NULL,NULL
+65,TRANSCO,Transcontinental Gas Pipeline
+66,TRES PALACIOS,Tres Palacios Gas Storage LLC (Tres Palacios)
+67,TRUNK,Trunkline Gas Company
+68,TW,Transwestern Pipeline
+69,UNION,Union Gas Pipeline
+70,VECTOR,Vector Pipeline
+71,VIKING,Viking Pipeline
+72,WAHA,Waha Hub
+73,WESTCS,Westcoast (Spectra) Pipeline
+74,XRDS,Crossroads Pipeline
